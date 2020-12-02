@@ -1,0 +1,20 @@
+{
+  "name": "Higher-Order-Functions",
+  "version": "1.0.0",
+  "description": "Collection of Higher-Order Functions",
+  "author": "Jim Armstrong",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "tsc -p ./src",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "25.5.3",
+    "ts-jest": "25.4.0",
+    "typescript": "3.8.3"
+  },
+  "dependencies": {
+    "@types/core-js": "0.9.34",
+    "@types/jest": "25.2.1"
+  }
+}
