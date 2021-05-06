@@ -175,7 +175,7 @@ export function partition<T>(predicate: (value: T) => boolean, arr: Array<T> ): 
  *
  * @param f Function that takes an array of values and returns an arbitrary result
  */
-export function cache(f: Function): (...rest: Array<any>) => any
+export function cache(f: (...args: Array<any>) => any): (...rest: Array<any>) => any
 {
   const localCache: Record<string, any> = {};
 
