@@ -34,7 +34,7 @@ Installation involves all the usual suspects
 
 2. Standalone compilation only (npm build)
 
-Specs (_ds.spec.ts) reside in the ___test___ folder and serve as usage examples for the library.
+Specs (_higher-order.spec.ts) reside in the ___test___ folder and serve as usage examples for the library.
  
 Enjoy!
 
