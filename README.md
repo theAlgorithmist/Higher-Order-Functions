@@ -4,6 +4,7 @@ Simply stated, a higher-order function takes one or more functions as an argumen
 
 This library represents my most commonly-used set of higher-order functions.  I've used similar collections in the past across multiple environments ranging from C++ in the 1990s to ActionScript to native Javascript to Typescript.  I hope you find the library to be useful.
 
+NOTE:  This library has been updated [and is now part of the AMYR library](https://github.com/theAlgorithmist/AMYR).
 
 Author:  Jim Armstrong - [The Algorithmist]
 
